@@ -1,0 +1,13 @@
+ul{
+    list-style-type: none;
+}
+
+span{
+    color: red;
+    cursor: pointer;
+   /*  border: 1px solid red; */
+}
+
+#list li:first-child{
+    margin-top: 30px;
+} 
